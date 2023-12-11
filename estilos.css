@@ -44,6 +44,7 @@ body{
   h2{
     padding: 15px;
     font-size: 23px;
+    text-align: center;
   }
   img{
     width: 60%;
@@ -85,4 +86,5 @@ body{
     img{
       width: 90%;
     }
+    
     }
