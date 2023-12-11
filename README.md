@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/rps_RRg3)
+# **Explorando o Mundo Linux**
+## **O Site Explorando o mundo linux serve como base para as pessoas que não conhecem o sistema operacional terem seu primeiro contato com esse sistema incrivel e intuitivo que traz varios beneficios por ser mais leve que seus concorrentes e tambem por ser gratuito.**
+### **O site foi desenvolvido em HTML e CSS, sem a utilização de nenhum framework, ou outra linguagem.**
+### **Site desenvolvido por João Paulo e Alexandre como projeto final para a disciplina de Gerência de Configuração e Mudanças.**
+[Acesse em:](https://gerencia-de-configuracao-e-mudancas.github.io/projeto-final-drifters/)
